@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Analytics w/ Python &
 - 💞️ I’m looking to collaborate on topics regarding Data
 - 📫 How to reach me
-  LinkedIn: [KentMendoza](https://www.linkedin.com/in/kent-mendoza/)
+  - LinkedIn: [KentMendoza](https://www.linkedin.com/in/kent-mendoza/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 <!---
