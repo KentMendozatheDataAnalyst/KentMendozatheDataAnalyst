@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KentMendozatheDataAnalyst
 - 👀 I’m interested in Finance, Tabular Data, & Anthing Data related
-- 🌱 I’m currently learning Data Analytics w/ Python &
+- 🌱 I’m currently learning Data Analytics w/ Python & PostgreSQL
 - 💞️ I’m looking to collaborate on topics regarding Data
 - 📫 How to reach me
   - LinkedIn: [KentMendoza](https://www.linkedin.com/in/kent-mendoza/)
